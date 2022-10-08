@@ -1,5 +1,7 @@
 # EDA pada Travel Insurance Prediction Data
 
+## Exploratory Data Analysis (EDA)
+
   Exploratory Data Analysis (EDA) atau dikenal pula dengan analisis data eksploratif merupakan analisis untuk suatu data guna membuat gambaran keseluruhan 
 (summary) data sehingga mudah untuk dipahami. Dengan tujuan untuk mengidentifikasi pola, menemukan anomali, menguji hipotesis dan memeriksa 
 asumsi. Dengan melakukan EDA, pengguna akan sangat terbantu dalam mendeteksi kesalahan dari awal, dapat mengidentifikasi outlier, mengetahui hubungan antar data 
