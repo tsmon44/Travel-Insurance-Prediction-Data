@@ -2,14 +2,20 @@
 
 ## Exploratory Data Analysis (EDA)
 
-  Exploratory Data Analysis (EDA) atau dikenal pula dengan analisis data eksploratif merupakan analisis untuk suatu data guna membuat gambaran keseluruhan 
-(summary) data sehingga mudah untuk dipahami. Dengan tujuan untuk mengidentifikasi pola, menemukan anomali, menguji hipotesis dan memeriksa 
-asumsi. Dengan melakukan EDA, pengguna akan sangat terbantu dalam mendeteksi kesalahan dari awal, dapat mengidentifikasi outlier, mengetahui hubungan antar data 
-serta dapat menggali faktor-faktor penting dari data. Proses EDA ini sangat bermanfaat dalam proses analisis statistik.
+  Exploratory Data Analysis (EDA) atau analisis data eksploratif merupakan metode eksplorasi data untuk membuat gambaran keseluruhan 
+(summary) data sehingga mudah untuk dipahami. 
+EDA digunakan untuk :
+1. Mengidentifikasi pola suatu data
+2. Menemukan sebuah penyimpangan 
+3. Menguji hipotesis 
+4. Memeriksa asumsi melalui visualisasi data
+
+  Dengan melakukan EDA, pengguna akan sangat terbantu dalam mendeteksi kesalahan dari awal, mengecek kualitas data yang dilanjutkan dengan proses cleansing dan processing, dapat mengidentifikasi outlier, mengetahui hubungan antar data, serta mendapatkan insight data. Proses EDA ini sangat bermanfaat dalam proses analisis statistik.  .
 
 ## Travel Insurance Prediction Data
 
-  Sebuah Perusahaan Tour & Travels Menawarkan Paket Asuransi Perjalanan Kepada Pelanggannya. Paket Asuransi Baru Juga Termasuk Pertanggungan Covid. Perusahaan Perlu Mengetahui Pelanggan Mana Yang Akan Tertarik Untuk Membelinya Berdasarkan Sejarah Databasenya. Asuransi Ditawarkan Kepada Beberapa Pelanggan Pada Tahun 2019 Dan Data Yang Diberikan Telah Disarikan Dari Kinerja/Penjualan Paket Selama Periode Itu. Data Diberikan Untuk Hampir 2000 Pelanggan Sebelumnya Dan Anda Diperlukan Untuk Membangun Model Cerdas Yang Dapat Memprediksi Jika Pelanggan Akan Tertarik Untuk Membeli Paket Asuransi Perjalanan Berdasarkan Parameter Tertentu Yang Diberikan.
+  Sebuah perusahaan tour & travels yang menawarkan paket asuransi perjalanan kepada pelanggannya. Perusahaan perlu mengetahui pelanggan mana yang akan tertarik untuk membelinya berdasarkan databasenya. Asuransi ditawarkan kepada beberapa pelanggan pada tahun 2019 dan data yang diberikan telah disarikan dari kinerja/penjualan paket selama periode itu. Data diberikan untuk hampir 2000 pelanggan sebelumnya.
+
 Dataset dapat didownload di https://www.kaggle.com/datasets/tejashvi14/travel-insurance-prediction-data?datasetId=1457162&searchQuery=acc
 
 ## EDA Conclusion
