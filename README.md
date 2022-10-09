@@ -37,4 +37,3 @@ Dataset dapat didownload di https://www.kaggle.com/datasets/tejashvi14/travel-in
 5. Pelanggan yang tidak pernah traveled abroad tidak membeli travel insurance. Sebaliknya, pelanggan yang pernah traveled abroad membeli travel insurance
 6. Private Sector/Self Employed merupakan pelanggan yang paling banyak memiliki pendapatan tahunan
 7. Usia 28 paling rentan terkena penyakit kronis
-8. pelanggan yang lulus dari perguruan tinggi lebih banyak membeli travel insurance
