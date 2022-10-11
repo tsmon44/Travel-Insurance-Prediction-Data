@@ -1,4 +1,4 @@
-# EDA pada Travel Insurance Prediction Data
+# EDA dan Supervised Machine Learning pada Travel Insurance Prediction Data
 
 ## Exploratory Data Analysis (EDA)
 
@@ -11,6 +11,10 @@ EDA digunakan untuk :
 4. Memeriksa asumsi melalui visualisasi data
 
   Dengan melakukan EDA, pengguna akan sangat terbantu dalam mendeteksi kesalahan dari awal, mengecek kualitas data yang dilanjutkan dengan proses cleansing dan processing, dapat mengidentifikasi outlier, mengetahui hubungan antar data, serta mendapatkan insight data. Proses EDA ini sangat bermanfaat dalam proses analisis statistik.  .
+  
+## Supervised Machine Learning
+
+  Supervised Learning adalah machine learning model yang membutuhkan data target. Model-model di Supervised Learning membutuhkan data training berupa input data dan target data yang diinginkan. Supervised Learning menggunakan data training untuk membuat machine learning model dan model ini akan digunakan untuk diuji pada data test. Random Forest merupakan salah satu jenis algoritma machine learning supervised learning. Random Forest adalah kombinasi masing-masing tree dari decision tree yang kemudian digabungkan menjadi satu model, digunakan untuk pengklasifikasian data set dalam jumlah besar. Ada beberapa macam sampling methods pada Random forest, yaitu model Random Forest biasa, model Random Forest dengan Undersampling, model Random Forest dengan Oversampling, dan model Random Forest combining Undersampling Oversampling.
 
 ## Travel Insurance Prediction Data
 
@@ -37,3 +41,9 @@ Dataset dapat didownload di https://www.kaggle.com/datasets/tejashvi14/travel-in
 5. Pelanggan yang tidak pernah traveled abroad tidak membeli travel insurance. Sebaliknya, pelanggan yang pernah traveled abroad membeli travel insurance
 6. Private Sector/Self Employed merupakan pelanggan yang paling banyak memiliki pendapatan tahunan
 7. Usia 28 paling rentan terkena penyakit kronis
+
+## Supervised Machine Learning Conclusion
+
+1. Model dengan konfigurasi yang memiliki nilai precision terbaik adalah Model Random Forest Biasa saja
+2. Model dengan konfigurasi yang memiliki nilai recall terbaik adalah Model Random Forest dengan Undersampling
+3. Model dengan konfigurasi yang memiliki nilai F1-Score terbaik adalah Model Random Forest Biasa saja atau Model Random Forest dengan Oversampling dan Undersampling dengan koefisien oversampling = 0.6 dan koefisien undersampling = 0.7
