@@ -15,6 +15,7 @@ EDA digunakan untuk :
 ## Supervised Machine Learning
 
   Supervised Learning adalah machine learning model yang membutuhkan data target. Model-model di Supervised Learning membutuhkan data training berupa input data dan target data yang diinginkan. Supervised Learning menggunakan data training untuk membuat machine learning model dan model ini akan digunakan untuk diuji pada data test. 
+  
   Random Forest merupakan salah satu jenis algoritma machine learning supervised learning. Random Forest adalah kombinasi masing-masing tree dari decision tree yang kemudian digabungkan menjadi satu model, digunakan untuk pengklasifikasian data set dalam jumlah besar. Ada beberapa macam sampling methods pada Random forest, yaitu model Random Forest biasa, model Random Forest dengan Undersampling, model Random Forest dengan Oversampling, dan model Random Forest combining Undersampling Oversampling.
 
 ## Travel Insurance Prediction Data
