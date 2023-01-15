@@ -22,10 +22,10 @@ The modeling that will be used aims to predict whether customers will be interes
 
 Machine Learning models that will be tested include:
 
-Logical Regression
-K-NN
-Decision Tree Classification
-Random Forest Classification 
+- Logical Regression
+- K-NN
+- Decision Tree Classification
+- Random Forest Classification 
 
 ## Conclusion :
 From the observations made, it can be concluded that the best model for predicting whether a customer buys a travel insurance package or not is Hyperparameter Tuning using Optuna Random Forest Smoothen, because it has the best precision value of 91%.
